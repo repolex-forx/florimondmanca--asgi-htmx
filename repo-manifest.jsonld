@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/florimondmanca/asgi-htmx/commit/c433c294db285bc0ce33b1f32fe7d824443b3844",
       "git:hexsha": "c433c294db285bc0ce33b1f32fe7d824443b3844",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/florimondmanca/asgi-htmx/commit/d72ea04a44f7b72815ff0187b457f90cb7245f9d",
