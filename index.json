@@ -1,0 +1,11 @@
+{
+  "org": "florimondmanca",
+  "repo": "asgi-htmx",
+  "versions": [
+    {
+      "commit": "c433c294db285bc0ce33b1f32fe7d824443b3844",
+      "tag": "",
+      "parsed_at": "2026-10-20T22:04:41.387250+00:00"
+    }
+  ]
+}
